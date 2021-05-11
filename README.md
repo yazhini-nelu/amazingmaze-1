@@ -1,1 +1,2 @@
-# amazingmaze-1
+# collisionAlgorithm
+Algorithm to detect collision between two objects
